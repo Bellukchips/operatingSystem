@@ -1,0 +1,9 @@
+C:\Users\muham\Documents\Cosmos\osku\osku\bin\Debug\netcoreapp2.0\cosmos\osku.deps.json
+C:\Users\muham\Documents\Cosmos\osku\osku\bin\Debug\netcoreapp2.0\cosmos\osku.dll
+C:\Users\muham\Documents\Cosmos\osku\osku\bin\Debug\netcoreapp2.0\cosmos\osku.pdb
+C:\Users\muham\Documents\Cosmos\osku\osku\obj\Debug\netcoreapp2.0\cosmos\osku.csprojAssemblyReference.cache
+C:\Users\muham\Documents\Cosmos\osku\osku\obj\Debug\netcoreapp2.0\cosmos\osku.AssemblyInfoInputs.cache
+C:\Users\muham\Documents\Cosmos\osku\osku\obj\Debug\netcoreapp2.0\cosmos\osku.AssemblyInfo.cs
+C:\Users\muham\Documents\Cosmos\osku\osku\obj\Debug\netcoreapp2.0\cosmos\osku.csproj.CoreCompileInputs.cache
+C:\Users\muham\Documents\Cosmos\osku\osku\obj\Debug\netcoreapp2.0\cosmos\osku.dll
+C:\Users\muham\Documents\Cosmos\osku\osku\obj\Debug\netcoreapp2.0\cosmos\osku.pdb

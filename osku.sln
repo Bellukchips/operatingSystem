@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osku", "osku\osku.csproj", "{5F03EB64-8300-4F4E-9A78-18A2D5AB29F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F03EB64-8300-4F4E-9A78-18A2D5AB29F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F03EB64-8300-4F4E-9A78-18A2D5AB29F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F03EB64-8300-4F4E-9A78-18A2D5AB29F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F03EB64-8300-4F4E-9A78-18A2D5AB29F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59B287D6-36CB-4FDA-9EC7-418B2C53E3CE}
+	EndGlobalSection
+EndGlobal
